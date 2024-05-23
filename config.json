@@ -1,0 +1,11 @@
+{
+  "accountName": "e621 username (required for api key usage)",
+  "apiKey": "e621 api key (optional)",
+  "discordId": "discord user id",
+  "botToken": "discord bot token",
+  "PagesToSearch": 500,
+  "CycleTime": 5000,
+  "allowedrating": "s",
+  "whitelist": [],
+  "blacklist": []
+}

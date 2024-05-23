@@ -1,0 +1,15 @@
+{
+  "name": "e621bot",
+  "version": "1.0.0",
+  "description": "owo",
+  "main": "e621bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noah",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "node-fetch": "^2.0.0"
+  }
+}
